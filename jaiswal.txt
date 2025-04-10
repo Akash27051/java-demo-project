@@ -6,6 +6,8 @@ repository and I'll see is this code attached to new Tag.
 Adding something more in this file
 Again adding few more things to see how its parent is getting changed
 
+new line added in new branch sky
 
-adding few lines in the same row where I edited in sky branch
+skipping 10th line in sky branch beacause in industries branch in made some changes
 
+in 13th line in main branch I'm doing some modificaiton 
